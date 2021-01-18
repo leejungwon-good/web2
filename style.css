@@ -18,6 +18,7 @@ h1 {
   padding:10px;
 }
 ul {
+  font-weight: bold;
   border-right:1px solid;
   margin:0;
   width:240px;
